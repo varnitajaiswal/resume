@@ -258,14 +258,14 @@
     <aside class="sidebar">
         <div class="profile-container">
             <!-- Your uploaded image used here -->
-            <img src="c:\Users\varni\Desktop\Programs\resume\image.jpeg" alt="Varnita Jaiswal" class="profile-img">
+            <img src="image1" alt="Varnita Jaiswal" class="profile-img">
             <span class="handle">@VARNITAAAAA</span>
         </div>
         
         <div class="qr-card">
             <div class="qr-box">
                 <!-- Fixed the class name and added inline styling for perfect fit -->
-                <img src="c:\Users\varni\Desktop\Programs\resume\QR.jpeg" alt="Instagram" style="width: 100%; height: 100%; object-fit: contain; border-radius: 10px;">
+                <img src="image2" alt="Instagram" style="width: 100%; height: 100%; object-fit: contain; border-radius: 10px;">
             </div>
             <p class="qr-text">Scan to view content</p>
         </div>
